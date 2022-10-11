@@ -1,4 +1,4 @@
-/*  ailou15.js
+/*  ailou16.js
 TM AI
 
 Copyright (C) 2013-2016 by Lode Vandevenne
@@ -23,7 +23,7 @@ freely, subject to the following restrictions:
     distribution.
 */
 
-//Lou's AI controller.
+//Lou's AI controller Ver 16.
 
 
 var AILou = function(level) {
